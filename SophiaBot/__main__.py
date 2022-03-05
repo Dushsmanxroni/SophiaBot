@@ -86,11 +86,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
-        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
+        InlineKeyboardButton(text="Sophia News 🙋‍♀️ ", url=f"https://t.me/Ronin_Fighters_Fd"),
+        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/Ronin_Fighters_Fd"),
     ],
     [
-        InlineKeyboardButton(text="➕ Add me to your Group ➕", url="t.me/SophiaSLBot?startgroup=true"),   
+        InlineKeyboardButton(text="➕ Add me to your Group ➕", url="t.me/Ronin_Fighters_Fd?startgroup=true"),   
     ],
 ]
 
